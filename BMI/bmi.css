@@ -1,0 +1,40 @@
+body{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 120px;
+}
+#box{
+          border: 1px solid red;
+          padding: 40px;
+          padding-top: 2px;
+          padding-left: 50px;
+          border-radius: 10px;
+          background-color: transparent;
+}
+#box input{
+  margin-top: 8px;
+  text-align: center;
+  border-radius: 5px;
+  color: black;
+}
+.cal{
+          margin-left: 34px;
+          margin-top: 8px;
+          border-radius: 5px;
+          border-color: black;
+          background-color: rgb(62, 210, 46);
+          color: white;
+          border: none;
+          padding: 5px;
+}
+.reset{
+  margin-left: 55px;
+  margin-top: 8px;
+  border-radius: 5px;
+  border-color: black;
+  background-color: rgb(62, 210, 46);
+  color: white;
+  border: none;
+  padding: 5px;
+}
